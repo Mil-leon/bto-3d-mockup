@@ -1,0 +1,5 @@
+# HDB brochure artwork stays local (see reference/plans/README.md)
+reference/plans/*
+!reference/plans/README.md
+
+.DS_Store
